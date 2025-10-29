@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Anoud 👋
 
-<!--
-**anoudmohamed/anoudmohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer | Tech Enthusiast**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about building software solutions and contributing to open source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 About Me
+- 🔭 Currently working on innovative projects
+- 🌱 Continuously learning new technologies
+- 💬 Open to collaboration and discussions
+- 🎨 Interested in full-stack development
+
+## 💼 Experience & Skills
+- **Languages**: Python, Java, C, JavaScript
+- **Areas**: Data Science, Software Engineering, Algorithms
+- **Projects**: Multiple projects including machine learning and game development
+
+## 📊 My Activity
+[Contribution graph and stats would appear here]
+
+## 🔗 Connect with Me
+- **LinkedIn**: [Your LinkedIn Profile]
+- **Email**: [Your Email]
+
+---
+*Feel free to explore my repositories and don't hesitate to reach out!*
